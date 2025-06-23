@@ -55,12 +55,3 @@ Each group includes the following metrics:
 - SciPy
 - Matplotlib
 
----
-
-## 📁 File Structure
-
-├── ab_testing.xlsx
-
-├── ab_testing.py
-
-├── README.md
